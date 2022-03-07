@@ -1,7 +1,7 @@
 ## Hii This is Ananth <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
 <a href="https://www.linkedin.com/in/ananth-r-182a3a207/">
-  <img align="left" alt="Shuvo's Linkdein" width="15px" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
+  <img align="left" alt="Shuvo's Linkdein" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
 </a>
 <a href="https://github.com/ANANTH-2002">
   <img align="left" alt="Shuvo's Github" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
