@@ -6,8 +6,7 @@
 <a href="https://github.com/ANANTH-2002">
   <img align="left" alt="Shuvo's Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
 </a>
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-Red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:suyash.ananthkovil@gmail.com)](mailto:suyash.ananthkovil77@gmail.com)
-
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthkovil77@gmail.com)
 
 <a href="https://www.kaggle.com/ananthr1">
   <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
