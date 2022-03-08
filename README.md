@@ -20,7 +20,7 @@
 <a href="https://github.com/ANANTH-2002">
   <img align="left" alt="Shuvo's Github" src="https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white" />
 </a><a href="https://www.kaggle.com/ananthr1">
-  <img align="left" alt="Shuvo's Kaggle" width="15px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
+  <img align="left" alt="Shuvo's Kaggle" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/kaggle.svg" />
 </a>
 
 ### Technical Skills
