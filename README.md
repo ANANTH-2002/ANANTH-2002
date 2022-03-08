@@ -10,6 +10,9 @@
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
 
+<img align="right" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Developer.gif"/>
+
+
 ### CONTACT ME
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthkovil77@gmail.com)<a href="https://www.linkedin.com/in/ananth-r-182a3a207/">
   <img align="left" alt="Shuvo's Linkdein" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
