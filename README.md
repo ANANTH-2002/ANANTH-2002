@@ -1,5 +1,7 @@
 ## Hii  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+![Profile views](https://gpvc.arturio.dev/olumidayy)
+
 
 ### I am Ananth R
 - An ML & Open Source enthusiast.
