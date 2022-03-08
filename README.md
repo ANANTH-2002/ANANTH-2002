@@ -1,5 +1,13 @@
 ## Hii This is Ananth <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
 
+
+### I am Ananth R
+- An ML & Open Source enthusiast.
+- A Computer Engineering Undergraduate Student. 
+- Currently working on some of my cool side projects based on Web Development and Machine Learning.
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+
+
 ### CONTACT ME
 [![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ananthkovil77@gmail.com)<a href="https://www.linkedin.com/in/ananth-r-182a3a207/">
   <img align="left" alt="Shuvo's Linkdein" src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" />
